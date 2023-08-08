@@ -22,7 +22,7 @@ const Footer = ({ tasks }) => {
   return (
     <footer className="footer">
       <div className="counts">{elem}</div>
-      <div>Kanban board by {`< SkillFactory: FR >, < 2023 >`}</div>
+      <div>Kanban board by {`< SkillFactory: FR 127>, < 2023 >`}</div>
     </footer>
   );
 };
